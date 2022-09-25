@@ -1,5 +1,5 @@
 This is E-Commerce project.
-This project I used language HTML,CSS and Javascript.
+This project I used language HTML and CSS.
 for helping access any product and purchase it.
 
 
